@@ -34,3 +34,4 @@ Password admin dibaca dari variabel lingkungan `ADMIN_PASSWORD`. Kalau tidak dia
 - aygift
 - lauren
 - nestor
+- simon
