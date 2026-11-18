@@ -31,6 +31,7 @@ Password admin dibaca dari variabel lingkungan `ADMIN_PASSWORD`. Kalau tidak dia
 
 ## Anggota kelompok
 - Ronata Sembiring
+- Simon Rafael
 - aygift
 - lauren
 - nestor
